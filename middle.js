@@ -51,8 +51,8 @@ module.exports = middle;
 //TEST
 
 
- assertArraysEqual(middle([1, 2, 3, 4]), [2, 3]); // PASS
- assertArraysEqual(middle([40, 42, 44, 46, 48, 50, 52,]), [48]); // PASS
- assertArraysEqual(middle([1, 2, 3, 4, 5, 6, 7, 8, 9]), [5]); // PASS
- assertArraysEqual(middle([18, 19, 20, 21, 22]), ["20"]); // FAIL
- assertArraysEqual(middle([67, 69, 72, 75, 78, 81]), [75, 72]); // FAIL
+ //assertArraysEqual(middle([1, 2, 3, 4]), [2, 3]); // PASS
+ //assertArraysEqual(middle([40, 42, 44, 46, 48, 50, 52,]), [48]); // PASS
+ //assertArraysEqual(middle([1, 2, 3, 4, 5, 6, 7, 8, 9]), [5]); // PASS
+ //assertArraysEqual(middle([18, 19, 20, 21, 22]), ["20"]); // FAIL
+ //assertArraysEqual(middle([67, 69, 72, 75, 78, 81]), [75, 72]); // FAIL
